@@ -21,3 +21,5 @@ Python, TypeScript, Vercel, Render, Cloudflare
 ## Status
 
 Live at [onsetonboarding.vercel.app](https://onsetonboarding.vercel.app)
+
+## Note: hosted on free tier infrastructure so initial load times may be slow. Allow a minute for the server to spin up.
